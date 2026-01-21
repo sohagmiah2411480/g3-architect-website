@@ -194,7 +194,7 @@ main > section{
         flex-direction: column;
 
     }
-    .team-img-container,.facts-container,.sponsor-companies,{
+    .team-img-container,.facts-container,.sponsor-companies{
         grid-template-columns: 1fr;
     }
     .facts-container{
